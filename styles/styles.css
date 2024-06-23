@@ -5,10 +5,10 @@
   --color3: #f9c0ba;
   --color4: #def2f1;
   --color5: #feffff;
-  --color6: #f34f4f;}
+  --color6: #ca4747;}
 
 .red-text {color: var(--color6);
-text-emphasis-style: bold;}
+font-style: bold;}
 
 .scroll-element {
   scroll-margin: 30px 0 0 30px;
