@@ -9,7 +9,7 @@ var filled = false;
 var aText = new Array(
 "> Hello!", 
 "> My name is Sumeet Kaur Brar, I am " + age + " years old.", 
-"> I am a Cmputer Information Systems graduate and I love challenges.",
+"> I am a Computer Information Systems graduate and I love challenges.",
 "> I currently work as a Software Tester at Gatekeeper Systems.",
 "> If you want to know more about me, you are in the right place :)"
 );
