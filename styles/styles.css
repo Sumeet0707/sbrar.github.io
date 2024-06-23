@@ -5,9 +5,9 @@
   --color3: #d6a39d;
   --color4: #def2f1;
   --color5: #feffff;
-}
+  --color6: #f75050;}
 
-.red-text {color: var(--color1);}
+.red-text {color: var(--color6);}
 
 .scroll-element {
   scroll-margin: 30px 0 0 30px;
