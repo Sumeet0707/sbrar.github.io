@@ -7,7 +7,7 @@
   --color5: #feffff;
 }
 
-.red-text {color: #CD5C5C;}
+.red-text {color: var(--color1);}
 
 .scroll-element {
   scroll-margin: 30px 0 0 30px;
