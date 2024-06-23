@@ -13,6 +13,13 @@ var aText = new Array(
 "> I currently work as a Software Tester at Gatekeeper Systems.",
 "> If you want to know more about me, you are in the right place :)"
 );
+
+var aText = new Array(
+	"> MISSION STATEMENT", 
+	"> As a dedicated software systems student with a passion for technology and innovation, my career goals are focused on leveraging my skills to develop impactful solutions that address real-world problems. I aim to continuously expand my knowledge and expertise in software development, staying updated with the latest trends and advancements in the field.", 
+	"> My mission is to contribute to the tech industry by creating efficient, user-friendly, and innovative software solutions. I am committed to lifelong learning, collaboration, and applying my skills to make a positive difference in both my professional and personal life. I strive to achieve excellence in every project I undertake and to inspire others through my dedication and work ethic.)"
+	);
+	
 var iSpeed = 10; // time delay of print out
 var iIndex = 0; // start printing array at this posision
 var iArrLength = aText[0].length; // the length of the text array
